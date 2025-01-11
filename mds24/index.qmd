@@ -1,0 +1,32 @@
+---
+title: "Jasmijn Bazen"
+about:
+  template: jolla
+  image: me.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jasmijn-bazen/
+    - icon: github
+      text: Github
+      href: https://github.com/MagicXIV
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/_jasminium_/
+---
+
+Jasmijn Bazen is a Methods and Statistics student at the University of Utrecht. When not busy spending time on this, she likes to take long walks with her dog and read.
+
+## Education
+
+Utrecht University | Utrecht, the Netherlands
+Master's in Methods and Statistics | Sept 2024 - present
+
+University of Twente | Enschede, the Netherlands
+Bachelor's in Psychology | Sept 2020 - June 2024
+
+## Experience
+
+Utrecht University | Statistical Programming with R Course Assistant | July 2024 
+
+Utrecht University | Introduction into Methods and Statistics Course Assistant | Sept 2024 - Dec 2024
