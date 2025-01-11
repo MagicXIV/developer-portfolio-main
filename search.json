@@ -1,42 +1,49 @@
 [
   {
-    "objectID": "mds24/MyExperience.html",
-    "href": "mds24/MyExperience.html",
+    "objectID": "mds24/index.html",
+    "href": "mds24/index.html",
+    "title": "gerkovink",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "MyExperience.html",
+    "href": "MyExperience.html",
     "title": "My Experience",
     "section": "",
     "text": "Below you can find an overview of my experience and interests."
   },
   {
-    "objectID": "mds24/MyExperience.html#research-master",
-    "href": "mds24/MyExperience.html#research-master",
+    "objectID": "MyExperience.html#research-master",
+    "href": "MyExperience.html#research-master",
     "title": "My Experience",
     "section": "Research Master",
     "text": "Research Master\nI am currently completing a research master’s degree at the University of Utrecht in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences (MSBBSS) or simply Methods and Statistics.\nThis programme has provided me with an in-depth understanding of widely used statistical methods, including multilevel modelling, Bayesian statistics, structural equation modelling, analysing survey data, and more. You can find the official programme page here\nFor my electives, I chose courses at Cito, where I studied: Contemporary Datasets, Psychometrics and Data Science, and Bayesian Psychometrics. These courses allowed me to further specialise in (Bayesian) psychometrics, the use of machine learning, and working with realistic datasets resembling real-life scenarios.\n\nMaster’s Thesis\nFor my Masters’ thesis, I am evaluating the impact of test motivation on PISA and TIMSS Outcomes, where test motivation is measured by missing answers to questions and response times. PISA and TIMSS are both Internal Large-Scale Assessment studies (ILSAs)."
   },
   {
-    "objectID": "mds24/MyExperience.html#bachelor",
-    "href": "mds24/MyExperience.html#bachelor",
+    "objectID": "MyExperience.html#bachelor",
+    "href": "MyExperience.html#bachelor",
     "title": "My Experience",
     "section": "Bachelor",
     "text": "Bachelor\nI have previously completed my Bachelors in Psychology at the University of Twente. Alongside the standard programme, I followed the elective modules Psychology of Safety, and Human factors & Engineering Psychology, as well as completed a minor abroad in Madrid.\n\nThe Bachelor Psychology provided me with the basic psychology facts and thought processes helpful in both everyday life as well as for academic purposes.\nThe module Psychology of Safety taught me how to influence individual responses to risks and safety issues, such as proper crowd control when disasters occur.\nHuman factors & Engineering Psychology offered great insight into how one can implement psychological findings into designing websites, daily user objects, apps, or even cars. As a part of this module, I completed a project programming an eye-tracking device using Python, a ruler, and a cheap camera.\nThe minor was focused on companies, their structures and their management.\n\n\nThesis\nMy Bachelor thesis focused on the statistical analysis of electroencephalogram (EEG) trial data through Bayesian covariance structure modelling (BCSM). I conducted a simulation study for the evaluation of the BCSM compared to a linear mixed effects model for different sample sizes and covariance values. The BCSM was then applied to electroencephalogram (EEG) trial data."
   },
   {
-    "objectID": "mds24/mywork.html",
-    "href": "mds24/mywork.html",
+    "objectID": "mywork.html",
+    "href": "mywork.html",
     "title": "My Experience",
     "section": "",
     "text": "Below you can find an overview of my experience and interests."
   },
   {
-    "objectID": "mds24/mywork.html#research-master",
-    "href": "mds24/mywork.html#research-master",
+    "objectID": "mywork.html#research-master",
+    "href": "mywork.html#research-master",
     "title": "My Experience",
     "section": "Research Master",
     "text": "Research Master\nI am currently completing a research master’s degree at the University of Utrecht in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences (MSBBSS) or simply Methods and Statistics.\\ This programme has provided me with an in-depth understanding of widely used statistical methods, including multilevel modelling, Bayesian statistics, structural equation modelling, analysing survey data, and more. You can find the official programme page here\\ For my electives, I chose courses at Cito, where I studied: Contemporary Datasets, Psychometrics and Data Science, and Bayesian Psychometrics. These courses allowed me to further specialise in (Bayesian) psychometrics, the use of machine learning, and working with realistic datasets resembling real-life scenarios. ### Master’s Thesis For my Masters’ thesis, I am evaluating the impact of test motivation on PISA and TIMSS Outcomes, where test motivation is measured by missing answers to questions and response times. PISA and TIMSS are both Internal Large-Scale Assessment studies (ILSAs)."
   },
   {
-    "objectID": "mds24/mywork.html#bachelor",
-    "href": "mds24/mywork.html#bachelor",
+    "objectID": "mywork.html#bachelor",
+    "href": "mywork.html#bachelor",
     "title": "My Experience",
     "section": "Bachelor",
     "text": "Bachelor\nI have previously completed my Bachelors in Psychology at the University of Twente. Alongside the standard programme, I followed the elective modules Psychology of Safety, and Human factors & Engineering Psychology, as well as completed a minor abroad in Madrid. \\ - The Bachelor Psychology provided me with the basic psychology facts and thought processes helpful in both everyday life as well as for academic purposes.\\ - The module Psychology of Safety taught me how to influence individual responses to risks and safety issues, such as proper crowd control when disasters occur. \\ - Human factors & Engineering Psychology offered great insight into how one can implement psychological findings into designing websites, daily user objects, apps, or even cars. As a part of this module, I completed a project programming an eye-tracking device using Python, a ruler, and a cheap camera. \\ - The minor was focused on companies, their structures and their management. ### Thesis My Bachelor thesis focused on the statistical analysis of electroencephalogram (EEG) trial data through Bayesian covariance structure modelling (BCSM). I conducted a simulation study for the evaluation of the BCSM compared to a linear mixed effects model for different sample sizes and covariance values. The BCSM was then applied to electroencephalogram (EEG) trial data."
@@ -63,66 +70,10 @@
     "text": "Experience\nUtrecht University | Statistical Programming with R Course Assistant | July 2024\nUtrecht University | Introduction into Methods and Statistics Course Assistant | Sept 2024 - Dec 2024"
   },
   {
-    "objectID": "mywork.html",
-    "href": "mywork.html",
-    "title": "My Experience",
+    "objectID": "mds24/about.html",
+    "href": "mds24/about.html",
+    "title": "About",
     "section": "",
-    "text": "Below you can find an overview of my experience and interests."
-  },
-  {
-    "objectID": "mywork.html#research-master",
-    "href": "mywork.html#research-master",
-    "title": "My Experience",
-    "section": "Research Master",
-    "text": "Research Master\nI am currently completing a research master’s degree at the University of Utrecht in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences (MSBBSS) or simply Methods and Statistics.\\ This programme has provided me with an in-depth understanding of widely used statistical methods, including multilevel modelling, Bayesian statistics, structural equation modelling, analysing survey data, and more. You can find the official programme page here\\ For my electives, I chose courses at Cito, where I studied: Contemporary Datasets, Psychometrics and Data Science, and Bayesian Psychometrics. These courses allowed me to further specialise in (Bayesian) psychometrics, the use of machine learning, and working with realistic datasets resembling real-life scenarios. ### Master’s Thesis For my Masters’ thesis, I am evaluating the impact of test motivation on PISA and TIMSS Outcomes, where test motivation is measured by missing answers to questions and response times. PISA and TIMSS are both Internal Large-Scale Assessment studies (ILSAs)."
-  },
-  {
-    "objectID": "mywork.html#bachelor",
-    "href": "mywork.html#bachelor",
-    "title": "My Experience",
-    "section": "Bachelor",
-    "text": "Bachelor\nI have previously completed my Bachelors in Psychology at the University of Twente. Alongside the standard programme, I followed the elective modules Psychology of Safety, and Human factors & Engineering Psychology, as well as completed a minor abroad in Madrid. \\ - The Bachelor Psychology provided me with the basic psychology facts and thought processes helpful in both everyday life as well as for academic purposes.\\ - The module Psychology of Safety taught me how to influence individual responses to risks and safety issues, such as proper crowd control when disasters occur. \\ - Human factors & Engineering Psychology offered great insight into how one can implement psychological findings into designing websites, daily user objects, apps, or even cars. As a part of this module, I completed a project programming an eye-tracking device using Python, a ruler, and a cheap camera. \\ - The minor was focused on companies, their structures and their management. ### Thesis My Bachelor thesis focused on the statistical analysis of electroencephalogram (EEG) trial data through Bayesian covariance structure modelling (BCSM). I conducted a simulation study for the evaluation of the BCSM compared to a linear mixed effects model for different sample sizes and covariance values. The BCSM was then applied to electroencephalogram (EEG) trial data."
-  },
-  {
-    "objectID": "MyExperience.html",
-    "href": "MyExperience.html",
-    "title": "My Experience",
-    "section": "",
-    "text": "Below you can find an overview of my experience and interests."
-  },
-  {
-    "objectID": "MyExperience.html#research-master",
-    "href": "MyExperience.html#research-master",
-    "title": "My Experience",
-    "section": "Research Master",
-    "text": "Research Master\nI am currently completing a research master’s degree at the University of Utrecht in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences (MSBBSS) or simply Methods and Statistics.\nThis programme has provided me with an in-depth understanding of widely used statistical methods, including multilevel modelling, Bayesian statistics, structural equation modelling, analysing survey data, and more. You can find the official programme page here\nFor my electives, I chose courses at Cito, where I studied: Contemporary Datasets, Psychometrics and Data Science, and Bayesian Psychometrics. These courses allowed me to further specialise in (Bayesian) psychometrics, the use of machine learning, and working with realistic datasets resembling real-life scenarios.\n\nMaster’s Thesis\nFor my Masters’ thesis, I am evaluating the impact of test motivation on PISA and TIMSS Outcomes, where test motivation is measured by missing answers to questions and response times. PISA and TIMSS are both Internal Large-Scale Assessment studies (ILSAs)."
-  },
-  {
-    "objectID": "MyExperience.html#bachelor",
-    "href": "MyExperience.html#bachelor",
-    "title": "My Experience",
-    "section": "Bachelor",
-    "text": "Bachelor\nI have previously completed my Bachelors in Psychology at the University of Twente. Alongside the standard programme, I followed the elective modules Psychology of Safety, and Human factors & Engineering Psychology, as well as completed a minor abroad in Madrid.\n\nThe Bachelor Psychology provided me with the basic psychology facts and thought processes helpful in both everyday life as well as for academic purposes.\nThe module Psychology of Safety taught me how to influence individual responses to risks and safety issues, such as proper crowd control when disasters occur.\nHuman factors & Engineering Psychology offered great insight into how one can implement psychological findings into designing websites, daily user objects, apps, or even cars. As a part of this module, I completed a project programming an eye-tracking device using Python, a ruler, and a cheap camera.\nThe minor was focused on companies, their structures and their management.\n\n\nThesis\nMy Bachelor thesis focused on the statistical analysis of electroencephalogram (EEG) trial data through Bayesian covariance structure modelling (BCSM). I conducted a simulation study for the evaluation of the BCSM compared to a linear mixed effects model for different sample sizes and covariance values. The BCSM was then applied to electroencephalogram (EEG) trial data."
-  },
-  {
-    "objectID": "mds24/index.html",
-    "href": "mds24/index.html",
-    "title": "Jasmijn Bazen",
-    "section": "",
-    "text": "Jasmijn Bazen is a Methods and Statistics student at the University of Utrecht. When not busy spending time on this, she likes to take long walks with her dog and read."
-  },
-  {
-    "objectID": "mds24/index.html#education",
-    "href": "mds24/index.html#education",
-    "title": "Jasmijn Bazen",
-    "section": "Education",
-    "text": "Education\nUtrecht University | Utrecht, the Netherlands Master’s in Methods and Statistics | Sept 2024 - present\nUniversity of Twente | Enschede, the Netherlands Bachelor’s in Psychology | Sept 2020 - June 2024"
-  },
-  {
-    "objectID": "mds24/index.html#experience",
-    "href": "mds24/index.html#experience",
-    "title": "Jasmijn Bazen",
-    "section": "Experience",
-    "text": "Experience\nUtrecht University | Statistical Programming with R Course Assistant | July 2024\nUtrecht University | Introduction into Methods and Statistics Course Assistant | Sept 2024 - Dec 2024"
+    "text": "About this site"
   }
 ]

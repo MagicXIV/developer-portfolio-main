@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://MagicXIV.github.io/developer-portfolio-main/mds24/MyExperience.html</loc>
-    <lastmod>2025-01-11T22:05:05.343Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MagicXIV.github.io/developer-portfolio-main/mds24/mywork.html</loc>
-    <lastmod>2025-01-11T22:05:05.343Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MagicXIV.github.io/developer-portfolio-main/index.html</loc>
-    <lastmod>2025-01-11T22:05:05.343Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MagicXIV.github.io/developer-portfolio-main/mywork.html</loc>
-    <lastmod>2025-01-11T22:05:05.345Z</lastmod>
+    <loc>https://MagicXIV.github.io/developer-portfolio-main/mds24/index.html</loc>
+    <lastmod>2025-01-11T22:05:36.601Z</lastmod>
   </url>
   <url>
     <loc>https://MagicXIV.github.io/developer-portfolio-main/MyExperience.html</loc>
-    <lastmod>2025-01-11T22:05:05.336Z</lastmod>
+    <lastmod>2025-01-11T22:05:36.594Z</lastmod>
   </url>
   <url>
-    <loc>https://MagicXIV.github.io/developer-portfolio-main/mds24/index.html</loc>
-    <lastmod>2025-01-11T22:05:05.343Z</lastmod>
+    <loc>https://MagicXIV.github.io/developer-portfolio-main/mywork.html</loc>
+    <lastmod>2025-01-11T22:05:36.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MagicXIV.github.io/developer-portfolio-main/index.html</loc>
+    <lastmod>2025-01-11T22:05:36.600Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MagicXIV.github.io/developer-portfolio-main/mds24/about.html</loc>
+    <lastmod>2025-01-11T22:05:36.600Z</lastmod>
   </url>
 </urlset>
